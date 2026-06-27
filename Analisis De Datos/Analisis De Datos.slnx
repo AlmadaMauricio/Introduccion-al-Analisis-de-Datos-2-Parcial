@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Inversion-Plazo-Fijo/Inversion-Plazo-Fijo.vcxproj" />
+  <Project Path="Inversion-Plazo-Fijo/Inversion-Plazo-Fijo.vcxproj" Id="7884d020-b429-4605-ab77-4d80d6ddc612" />
 </Solution>
